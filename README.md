@@ -39,3 +39,7 @@ This array only includes rooms that are part of the maze, not the empty coordina
 By default each room has properties names 'enemies' and 'contains' which are empty arrays.
   
 The removal of the 'enemies' and 'contains' arrays prior to construction will have no negative impact on the initial construciton and are only there as placeholders for my own personal use in building a self-populating text adventure.
+
+
+### MIT License
+Feel free to use this software.
